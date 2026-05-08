@@ -22,7 +22,8 @@ AWS（Amazon EC2）環境におけるアーカイブシステム基盤構築プ�
 - **連携**：Microsoft 365
 
 ## 担当業務
-- AWS EC2上でのWindows Server仮想サーバー（Hyper-V）構築
+- Hyper-Vを用いて仮想Windows Serverを作成しソリューションパッケージ導入の検証を実施
+- AWS EC2上にあるアプリケーションサーバ（Windows Server）にソリューションパッケージを導入
 - ZLUAパッケージインストール・パッチ適用・各種設定
 - IIS設定・SSL証明書作成・設定
 - SaaSアプリとの連携設定
